@@ -14,6 +14,13 @@
         height: 80px;
         padding: 5px;
       }
+      
+#photo {
+  src="images/photo.jpg";
+  alt="Qingin's ID photo";
+  width:200px;
+  height:200px;
+}
 
       h1 {
         text-align: center;
